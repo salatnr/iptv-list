@@ -31,6 +31,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",ATV Alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.imgur.com/p3ON1oX.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Benguturk TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Bir TV
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Bloomberg HT
@@ -78,7 +80,7 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Fortuna TV
-https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMPixel.tr" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Grand Cinema
@@ -106,19 +108,15 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal15.tr" tvg-logo="https://i.imgur.com/wb1Cdc9.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 15
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal23.tr" tvg-logo="https://i.imgur.com/3br8RCq.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 23
-https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal26.tr" tvg-logo="https://i.imgur.com/Mr7XPii.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal3.tr" tvg-logo="https://i.imgur.com/eXErSv0.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 3
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal32.tr" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 32
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal33.tr" tvg-logo="https://i.imgur.com/5WYaoFZ.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 33
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal58.tr" tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kanal D
@@ -133,8 +131,6 @@ https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-id="KayTV.tr" tvg-logo="https://i.imgur.com/MymuDJ1.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kay TV
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
-#EXTINF:-1 tvg-id="KentTurk.tr" tvg-logo="https://i.imgur.com/FQKPjsm.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kent Turk
-https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-logo="https://i.imgur.com/LeTP4zq.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Kocaeli TV
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Konya Olay TV
@@ -188,15 +184,13 @@ https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="https://i.imgur.com/0RzUswR.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Power Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",Power TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",PowerTurk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tQSoQXW.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",PowerTurk Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",PowerTurk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",PowerTurk TV
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",S Sport
 https://corestream.siteyaptim.live/s-sport/index.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-country="TR" group-title="🇹🇷 Turkiye • Ulusal",S Sport 2
@@ -719,18 +713,14 @@ https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
 #EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/FpVNrxk.png" tvg-country="AT" group-title="🇦🇹 Austria • Ulusal",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus1.by" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus3.by" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",Belarus-3
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-logo="https://i.imgur.com/XNkQrMr.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",Belarus-4
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",Belarus-5
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",First Music Channel
-http://rtmp.one.by:1300
+http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",First Music Channel Russia
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 #EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-logo="https://i.imgur.com/eIiXRAI.png" tvg-country="BY" group-title="🇧🇾 Belarus • Ulusal",Perviy Informationniy
@@ -754,7 +744,7 @@ https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manif
 #EXTINF:-1 tvg-id="JapanimTV.be" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
 #EXTINF:-1 tvg-id="LaTrois.be" tvg-logo="https://i.imgur.com/jMs4h9F.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",La Trois
-http://145.239.5.177/330/index.m3u8
+http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",La Une
 http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="Matele.be" tvg-logo="https://i.imgur.com/rw72POr.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",Matele
@@ -765,16 +755,12 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be" tvg-logo="https://i.imgur.com/bIheNAI.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",Sterk TV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
-#EXTINF:-1 tvg-id="StuBru.be" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",StuBru
-https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Telesambre.be" tvg-logo="https://i.imgur.com/TuIAkA3.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",Telesambre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
 #EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://i.imgur.com/LKLjnrp.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",Tipik
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="WTV.be" tvg-logo="https://i.imgur.com/wvKe8mi.png" tvg-country="BE" group-title="🇧🇪 Belgium • Ulusal",WTV
 https://wtvlive.b-cdn.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba" tvg-logo="https://imgur.com/ztOmQ7P" tvg-country="BA" group-title="🇧🇦 Bosnia and Herzegovina • Ulusal",Arena Sport Premium 2 BH
-https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #EXTINF:-1 tvg-id="Federalnatelevizija.ba" tvg-logo="https://i.imgur.com/astdRrE.png" tvg-country="BA" group-title="🇧🇦 Bosnia and Herzegovina • Ulusal",Federalna televizija
 http://185.81.240.65:15000/udp/233.233.233.39:12000
 #EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba" tvg-logo="https://i.imgur.com/xUOspBx.png" tvg-country="BA" group-title="🇧🇦 Bosnia and Herzegovina • Ulusal",Maria+Vision Medjugorje
@@ -964,7 +950,7 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-logo="https://i.imgur.com/VTLQeul.png" tvg-country="CY" group-title="🇨🇾 Cyprus • Ulusal",Sat 7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-logo="https://i.imgur.com/cKQIK4i.png" tvg-country="CY" group-title="🇨🇾 Cyprus • Ulusal",Sat 7 Turk
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png" tvg-country="CY" group-title="🇨🇾 Cyprus • Ulusal",Sigma TV
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" tvg-country="CZ" group-title="🇨🇿 Czech Republic • Ulusal",Barrandov Krimi
@@ -1126,7 +1112,7 @@ https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageDance.ee" tvg-logo="https://vantagetv.ee/vantage_dance.png" tvg-country="EE" group-title="🇪🇪 Estonia • Ulusal",Vantage Dance
 https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-country="EE" group-title="🇪🇪 Estonia • Ulusal",Vantage Music
-https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-country="EE" group-title="🇪🇪 Estonia • Ulusal",Vantage Rock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="Eveo.fi" tvg-logo="https://i.imgur.com/fFIq7tY.png" tvg-country="FI" group-title="🇫🇮 Finland • Ulusal",Eveo
@@ -1152,11 +1138,11 @@ https://live-fi.tvkaista.net/star-channel/live.m3u8
 #EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-logo="https://i.imgur.com/JyJNiXy.png" tvg-country="FI" group-title="🇫🇮 Finland • Ulusal",Taivas TV7
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" tvg-country="FI" group-title="🇫🇮 Finland • Ulusal",Yle Teema & Fem
-https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
+https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8
 #EXTINF:-1 tvg-id="YleTV1.fi" tvg-logo="https://i.imgur.com/6yXZwUL.png" tvg-country="FI" group-title="🇫🇮 Finland • Ulusal",Yle TV1
-https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
+https://live-fi.tvkaista.net/yle-tv1/live.m3u8
 #EXTINF:-1 tvg-id="YleTV2.fi" tvg-logo="https://i.imgur.com/4xkc6PL.png" tvg-country="FI" group-title="🇫🇮 Finland • Ulusal",Yle TV2
-https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
+https://live-fi.tvkaista.net/yle-tv2/live.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",20 Minutes TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",6ter
@@ -1191,8 +1177,6 @@ http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-logo="https://i.imgur.com/YnUZd3W.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Cine Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.fr" tvg-logo="https://i.imgur.com/tteOFkL.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Cine Western
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Cine+ Emotion
@@ -1222,7 +1206,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07a
 #EXTINF:-1 tvg-id="FootPlus.fr" tvg-logo="https://i.imgur.com/qsLLyn4.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Foot+
 http://145.239.5.177/556a/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",France 24
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="https://i.imgur.com/uM1v1sd.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Francophonie24
 https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Frequence Novelas
@@ -1235,14 +1219,14 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-logo="https://i.imgur.com/vXbAeD0.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr" tvg-logo="https://i.imgur.com/fVhrJHK.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-logo="https://i.imgur.com/43at4M2.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr" tvg-logo="https://i.imgur.com/M1Ee79b.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Kozoom TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/EY6TsdV.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",KTO
-http://145.239.5.177/354/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Le Figaro TV Ile-de-France
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-logo="https://i.imgur.com/DCZKAQ1.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",M6 Music
@@ -1318,7 +1302,7 @@ https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Latina
-https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceMboa.fr" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Muzika
@@ -1330,7 +1314,7 @@ https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/DLIbUMx.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-logo="https://i.imgur.com/ngF58fe.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",Trace Vanilla Islands
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-logo="https://i.imgur.com/O8W4yhn.png" tvg-country="FR" group-title="🇫🇷 France • Ulusal",TV Breizh
@@ -1354,7 +1338,7 @@ https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-logo="https://i.imgur.com/QoDpnKg.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Adria Music Television
 https://adriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Adventure Earth
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlexBerlin.de" tvg-logo="https://i.imgur.com/eTmHk4e.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Alex Berlin
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 #EXTINF:-1 tvg-id="AllehassenChris.de" tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Alle hassen Chris
@@ -1368,9 +1352,9 @@ https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
 #EXTINF:-1 tvg-id="AugsburgTV.de" tvg-logo="https://i.imgur.com/27AKMUL.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Augsburg TV
 https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticHistory.de" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Autentic History
-https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticTravel.de" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Autentic Travel
-https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Awkward.de" tvg-logo="https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Awkward
 https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 #EXTINF:-1 tvg-id="Becker.de" tvg-logo="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Becker
@@ -1706,7 +1690,7 @@ https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de" tvg-logo="https://i.imgur.com/G0cImlU.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Terra Mater WILD
-https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
 #EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoPNG_1769617985920.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",The L Word – Wenn Frauen lieben
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Totally Turtles
@@ -1780,7 +1764,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 tvg-id="HlektraTV.gr" tvg-logo="https://i.imgur.com/sbgWQEo.jpg" tvg-country="GR" group-title="🇬🇷 Greece • Ulusal",Hlektra TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-logo="https://i.imgur.com/JILN3kS.png" tvg-country="GR" group-title="🇬🇷 Greece • Ulusal",Ionian TV
-http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="KosTV.gr" tvg-logo="https://i.imgur.com/bdJnQ1W.png" tvg-country="GR" group-title="🇬🇷 Greece • Ulusal",Kos TV
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-id="KritiTV.gr" tvg-logo="https://i.imgur.com/X7jKwYl.png" tvg-country="GR" group-title="🇬🇷 Greece • Ulusal",Kriti TV
@@ -2124,13 +2108,13 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",Iunior TV
-https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="Juwelo.it" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-logo="https://i.imgur.com/RsGiBwE.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",Kiss Kiss Napoli TV
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://i.imgur.com/ja6c2YZ.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",Kiss Kiss TV
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-logo="https://i.imgur.com/05YWVCq.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",L'altro Corriere TV
 https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-logo="https://i.imgur.com/TF4LKp0.png" tvg-country="IT" group-title="🇮🇹 Italy • Ulusal",La C TV
@@ -2402,9 +2386,9 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSyri.xk" tvg-logo="https://i.imgur.com/ZQuFosn.png" tvg-country="XK" group-title="🇽🇰 Kosovo • Ulusal",TV Syri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 #EXTINF:-1 tvg-id="LTV1.lv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LTV1_%282022%29.svg/960px-LTV1_%282022%29.svg.png" tvg-country="LV" group-title="🇱🇻 Latvia • Ulusal",LTV1
-http://stream.mcquack.net/34/index.m3u8
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="LTV7.lv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/LTV7_Logo_2021.svg/960px-LTV7_Logo_2021.svg.png" tvg-country="LV" group-title="🇱🇻 Latvia • Ulusal",LTV7
-http://stream.mcquack.net/371/index.m3u8
+https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-logo="https://i.imgur.com/XIk5EJN.png" tvg-country="LV" group-title="🇱🇻 Latvia • Ulusal",Movify Kino
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="RadioSWHTV.lv" tvg-logo="https://i.imgur.com/cFrNsXn.png" tvg-country="LV" group-title="🇱🇻 Latvia • Ulusal",Radio SWH TV
@@ -2559,8 +2543,6 @@ https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",InTrouble
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWonder.nl" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",InWonder
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="JinTV.nl" tvg-logo="https://i.imgur.com/37ajg2j.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="KempenTV.nl" tvg-logo="https://i.imgur.com/ZiPL9ar.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",KempenTV
@@ -2727,8 +2709,6 @@ https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Actualiteitenkanaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Aletta Jacobszaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Enquetezaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Groen van Prinstererzaal
@@ -2737,12 +2717,8 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m
 https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Max van der Stoelzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Plenaire zaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Suze Groenewegzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
-#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Thorbeckezaal
-https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Troelstrazaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-logo="https://i.imgur.com/X9fezZ8.png" tvg-country="NL" group-title="🇳🇱 Netherlands • Ulusal",Tweede Kamer: Wttewaall van Stoetwegenzaal
@@ -2805,8 +2781,6 @@ https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
-#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",AXN Poland
-http://193.24.244.60:1001/udp/239.254.5.5:6060
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-logo="https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Bigtime
@@ -2841,12 +2815,8 @@ https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
 #EXTINF:-1 tvg-id="Moconomy.pl" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyN14NgigtUnImvVp9DqgbKY5c9Nsl-EqLkPX7PzYcl924yK77GycmSj2E&s=10" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Music Box Polska
-http://193.24.244.60:1001/udp/239.254.4.237:6060
 #EXTINF:-1 tvg-id="NewTV.pl" tvg-logo="https://i.imgur.com/fH8rKs3.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",NewTV
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Nicktoons
-http://193.24.244.60:1001/udp/239.254.5.227:6060
 #EXTINF:-1 tvg-id="PixelTV.pl" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Pixel TV
 https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-logo="https://i.imgur.com/hy1SKE0.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Polsat Sport Premium 1
@@ -2882,7 +2852,7 @@ https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",TNA Wrestling Channel
 https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
 #EXTINF:-1 tvg-id="TOPBarca.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",TOP Barca
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 #EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Top Movies Polska
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 #EXTINF:-1 tvg-id="TVASTA.pl" tvg-logo="https://i.imgur.com/5g7lq9N.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",TV ASTA
@@ -3155,8 +3125,6 @@ http://89.38.8.130:39443
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-country="SM" group-title="🇸🇲 San Marino • Ulusal",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1x2.rs" tvg-logo="https://i.imgur.com/cGIIyxR.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",Arena Sport 1x2
-https://webtvstream.bhtelecom.ba/arena_1x2.m3u8
 #EXTINF:-1 tvg-id="BelleAmie.rs" tvg-logo="https://i.imgur.com/tOlN5Rz.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",Belle Amie
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
 #EXTINF:-1 tvg-id="DMSat.rs" tvg-logo="https://i.imgur.com/LdeA1Cn.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",DM Sat
@@ -3177,6 +3145,8 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="https://i.imgur.com/S1pKHSR.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="RTS3.rs" tvg-logo="https://i.imgur.com/gxuGB4J.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",RTS 3
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-country="RS" group-title="🇷🇸 Serbia • Ulusal",RTV Novi Pazar
@@ -3211,6 +3181,8 @@ http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
 https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",MTR
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",Prima Cool SK
 http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaKrimiSK.sk" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",Prima Krimi SK
@@ -3218,7 +3190,7 @@ http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaloveSK.sk" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",Prima love SK
 http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="RegioTV.sk" tvg-logo="https://i.imgur.com/WlF6tlZ.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",Regio TV
-http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Senzi.sk" tvg-logo="https://i.imgur.com/1qJMmBu.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",Televizia Mocenok
@@ -3232,7 +3204,7 @@ https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",TV LocAll
-http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMistral.sk" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk" tvg-logo="https://i.imgur.com/iwWyG1A.png" tvg-country="SK" group-title="🇸🇰 Slovakia • Ulusal",TV Nitricka
@@ -3266,7 +3238,7 @@ https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV1000.si" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-country="SI" group-title="🇸🇮 Slovenia • Ulusal",TV1000
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",24 Horas
-http://185.47.212.25:8080/24h_HD/index.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-logo="https://i.imgur.com/DyvK28q.png" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es" tvg-logo="https://statics.3cat.cat/img/logos/3CatInfo_negre.svg" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",3CatInfo
@@ -3352,7 +3324,7 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="KinoKazka.es" tvg-logo="https://i.imgur.com/y6SWpsX.png" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",KinoKazka
 http://stream.mcquack.net/167/index.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",La 1
-https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://i.imgur.com/RlzVIJP.png" tvg-country="ES" group-title="🇪🇸 Spain • Ulusal",Lancelot TV
@@ -3563,8 +3535,6 @@ http://stream.mcquack.net/401/index.m3u8
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",FilmUADrama
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 tvg-id="FREEDOM.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",FREEDOM
-https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Glas.ua" tvg-logo="https://i.imgur.com/l5FEP9w.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Glas
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua" tvg-logo="https://i.imgur.com/PAw36qJ.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Happy Radio TV
@@ -3575,8 +3545,8 @@ http://stream.mcquack.net/158/index.m3u8
 http://stream.mcquack.net/368/index.m3u8
 #EXTINF:-1 tvg-id="InRatingTV.ua" tvg-logo="https://i.imgur.com/l753AgQ.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",InRating TV
 http://stream.mcquack.net/147/index.m3u8
-#EXTINF:-1 tvg-id="Inter.ua" tvg-logo="https://i.imgur.com/FHRagMx.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Inter
-http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-logo="https://i.imgur.com/Y392Hh4.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Inter+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IRT.ua" tvg-logo="https://i.imgur.com/tDTUIRm.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",IRT
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="Islandia.ua" tvg-logo="https://i.imgur.com/9ql4jXv.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Islandia
@@ -3606,7 +3576,7 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua" tvg-logo="https://i.imgur.com/AihoVc0.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-logo="https://i.imgur.com/wbRdUw8.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",M1
-http://stream.mcquack.net/218/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/AfcBWCg.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",M2
 http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Maincast_%28HD_Logo%29_2024.png" tvg-country="UA" group-title="🇺🇦 Ukraine • Ulusal",Maincast Cybersport
@@ -3738,7 +3708,7 @@ https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",BBC News Pashto
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-logo="https://i.imgur.com/4uTMnPb.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-logo="https://i.imgur.com/ULm80XF.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Brit Asia TV
 https://hls.autopo.st/hls/britasiatv/index.m3u8
 #EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://i.imgur.com/viB0FS2.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Canaf54 TV
@@ -3747,8 +3717,6 @@ https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",DAZN Combat
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-id="DerTV.uk" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Der%20TV.jpeg" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
 #EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-logo="https://i.imgur.com/dtrTfZC.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Dunya News UK
@@ -3782,9 +3750,9 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-logo="https://i.imgur.com/VWHp5Tl.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Horse & Country TV
-https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Iran International
-https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-logo="https://i.imgur.com/7oGGgfD.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk" tvg-logo="https://i.imgur.com/w6uXMrK.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Kanshi TV
@@ -3830,11 +3798,11 @@ https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Now 70s
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Now 80s
-https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",NOW Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pop.uk" tvg-logo="https://i.imgur.com/fGUlCY3.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Pop
-https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
 #EXTINF:-1 tvg-id="QVC.uk" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",QVC
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-logo="https://i.imgur.com/ZBHtqk1.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",QVC Beauty
@@ -3862,7 +3830,7 @@ https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Takbeer TV
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",talkSPORT
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",TalkTV
 https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNUK.uk" tvg-logo="https://i.imgur.com/vFllwLd.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",TBN UK
@@ -3876,7 +3844,7 @@ https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",The Chat Show Channel
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGrahamNortonShow.uk" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",The Graham Norton Show
-https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
+https://jmp2.uk/plu-66166ce7aec96800080f6bd3.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-logo="https://i.imgur.com/zCTf71x.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",TJC
@@ -3896,7 +3864,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 #EXTINF:-1 tvg-id="TraceUK.uk" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Trace UK
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 #EXTINF:-1 tvg-id="TrueCrime.uk" tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",True Crime
-https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8
 #EXTINF:-1 tvg-id="UtsavBharat.uk" tvg-logo="https://i.imgur.com/IQ2n0WY.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Utsav Bharat
 https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-logo="https://i.imgur.com/TERVtWT.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Utsav Plus
@@ -3904,9 +3872,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/LquGNbh.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Wonder
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Zee One
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+https://536ec699.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZC0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="🎬 Film",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="Action24TV.gr" tvg-logo="https://i.imgur.com/Zi1YohT.png" group-title="🎬 Film",Action24
