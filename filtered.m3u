@@ -83,6 +83,9 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="extra-tr-225" tvg-country="TR" group-title="Türkiye",BENGÜ TÜRK
 #EXTGRP:Türkiye
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" tvg-country="TR" group-title="Türkiye",Beyaz TV
+#EXTGRP:Türkiye
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-country="TR" group-title="Türkiye",Bir TV
 #EXTGRP:Türkiye
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
@@ -593,9 +596,6 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" tvg-country="TR" group-title="Türkiye",TRT World
 #EXTGRP:Türkiye
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" tvg-country="TR" group-title="Türkiye",TRT1
-#EXTGRP:Türkiye
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-country="TR" group-title="Türkiye",TurkHaber TV
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
@@ -1943,9 +1943,6 @@ https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-country="EE" group-title="Estonya",Vantage Rock
 #EXTGRP:Estonya
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
-#EXTINF:-1 tvg-id="Eveo.fi" tvg-logo="https://i.imgur.com/fFIq7tY.png" tvg-country="FI" group-title="Finlandiya",Eveo
-#EXTGRP:Finlandiya
-https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hero.fi" tvg-logo="https://i.imgur.com/4t5JQLY.png" tvg-country="FI" group-title="Finlandiya",Hero
 #EXTGRP:Finlandiya
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
@@ -3347,9 +3344,6 @@ https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-country="IT" group-title="İtalya",Camera dei Deputati
 #EXTGRP:İtalya
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-logo="https://i.imgur.com/7XXdN5T.png" tvg-country="IT" group-title="İtalya",Canale 2 Altamura
-#EXTGRP:İtalya
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" tvg-country="IT" group-title="İtalya",Canale 7
 #EXTGRP:İtalya
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
@@ -4418,9 +4412,6 @@ https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-id="LoveTV.mk" tvg-logo="https://i.imgur.com/B8iaejQ.png" tvg-country="MK" group-title="Kuzey Makedonya",Love TV
 #EXTGRP:Kuzey Makedonya
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-#EXTINF:-1 tvg-id="MNetInfo.mk" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" tvg-country="MK" group-title="Kuzey Makedonya",M-Net Info
-#EXTGRP:Kuzey Makedonya
-https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="NasaTV.mk" tvg-logo="https://i.imgur.com/9rB4VZy.png" tvg-country="MK" group-title="Kuzey Makedonya",Nasa TV
 #EXTGRP:Kuzey Makedonya
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
@@ -4631,12 +4622,6 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="WPTV.pl" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" tvg-country="PL" group-title="Polonya",WP TV
 #EXTGRP:Polonya
 https://lowa8026-cmyk.github.io/PL/WPHD.php.m3u8
-#EXTINF:-1 tvg-id="ADBTV.pt" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" tvg-country="PT" group-title="Portekiz",ADB TV
-#EXTGRP:Portekiz
-https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-country="PT" group-title="Portekiz",ARTV
-#EXTGRP:Portekiz
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="PT" group-title="Portekiz",AXN
 #EXTGRP:Portekiz
 http://znty.dyndns.org:5010/hls/axn.m3u8
@@ -4691,9 +4676,6 @@ https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" tvg-country="PT" group-title="Portekiz",RTP 1
 #EXTGRP:Portekiz
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" tvg-country="PT" group-title="Portekiz",RTP 2
-#EXTGRP:Portekiz
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" tvg-country="PT" group-title="Portekiz",RTP Acores
 #EXTGRP:Portekiz
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
