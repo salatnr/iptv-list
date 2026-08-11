@@ -873,8 +873,6 @@ http://213.91.179.28:8000/play/a03q
 http://213.91.179.28:8000/play/a03l
 #EXTINF:-1 tvg-id="NovaNews.bg" tvg-logo="https://i.imgur.com/s6IryS3.png" tvg-country="BG" group-title="🇧🇬 Bulgaria • Ulusal",Nova News
 http://213.91.179.28:8000/play/a063
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-country="BG" group-title="🇧🇬 Bulgaria • Ulusal",Plovdiv Orthodox TV
-http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" group-title="🇧🇬 Bulgaria • Ulusal",RING
 http://213.91.179.28:8000/play/a06e
 #EXTINF:-1 tvg-id="RMTV.bg" tvg-logo="https://rmtv.bg/img/logo.png" tvg-country="BG" group-title="🇧🇬 Bulgaria • Ulusal",RMTV
@@ -1423,8 +1421,6 @@ https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Filstalwelle
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="https://i.imgur.com/1uoP10V.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Finest TV
-https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-logo="https://i.imgur.com/ze04puX.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Folx Music Television
 https://folxapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" tvg-country="DE" group-title="🇩🇪 Germany • Ulusal",Franken Fernsehen
@@ -2835,6 +2831,8 @@ https://lowa8026-cmyk.github.io/PL/eskatv.php.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-logo="https://i.imgur.com/VtKYELf.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",FILMBOX+ Action
+https://polska.hach.workers.dev/14864.m3u8
 #EXTINF:-1 tvg-id="Fox.pl" tvg-logo="https://i.imgur.com/hSDN9YQ.png" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Fox
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
 #EXTINF:-1 tvg-id="Grjngo.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/22c730ab-2e9f-47dc-b35a-ad8c081fec40-width200-quality90.jpeg" tvg-country="PL" group-title="🇵🇱 Poland • Ulusal",Grjngo
@@ -3485,6 +3483,8 @@ https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImmaculataTV.ch" tvg-logo="https://i.imgur.com/8WsYVpt.png" tvg-country="CH" group-title="🇨🇭 Switzerland • Ulusal",Immaculata TV
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" tvg-logo="https://i.imgur.com/6ijbSTr.png" tvg-country="CH" group-title="🇨🇭 Switzerland • Ulusal",Leman Bleu
+http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-logo="https://i.imgur.com/13PjEk8.png" tvg-country="CH" group-title="🇨🇭 Switzerland • Ulusal",Max TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-logo="https://i.imgur.com/YtYhbJD.png" tvg-country="CH" group-title="🇨🇭 Switzerland • Ulusal",Meteonews
@@ -3753,8 +3753,6 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_af
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-logo="https://i.imgur.com/ULm80XF.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Brit Asia TV
 https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-logo="https://i.imgur.com/viB0FS2.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Canaf54 TV
-https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-logo="https://i.imgur.com/hJxFLvF.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",CNBC UK
@@ -3831,8 +3829,6 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk" tvg-logo="https://i.imgur.com/pw4NZK1.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",MyTime Movie Network
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Nickelodeon
-http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-logo="https://i.imgur.com/IxtGpti.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Nolly Africa
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorTV.uk" tvg-logo="https://i.imgur.com/DlKgIuQ.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Noor TV
@@ -3859,8 +3855,6 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SheffieldLiveTV.uk" tvg-logo="https://i.imgur.com/p0QzCFs.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Sheffield Live TV
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="SkyNature.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Sky Nature
-https://tvsen6.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Sky News Weather
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" tvg-country="UK" group-title="🇬🇧 United Kingdom • Ulusal",Sky Sports Cricket
