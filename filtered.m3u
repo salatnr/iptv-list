@@ -11,9 +11,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" tvg-country="TR" group-title="Türkiye",4U TV
 #EXTGRP:Türkiye
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-country="TR" group-title="Türkiye",5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="SPOR",TV 8.5
-#EXTGRP:Türkiye
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-country="TR" group-title="Türkiye",A Haber
 #EXTGRP:Türkiye
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
@@ -23,6 +20,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="extra-tr-94" tvg-country="TR" group-title="Türkiye",A VİVA TV
 #EXTGRP:Türkiye
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-country="TR" group-title="Türkiye",A2
+#EXTGRP:Türkiye
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" tvg-country="TR" group-title="Türkiye",A2TV
 #EXTGRP:Türkiye
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
@@ -620,12 +620,15 @@ https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" tvg-logo="https://i.imgur.com/k4R5CzO.png" tvg-country="TR" group-title="Türkiye",TV 52
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="extra-tr-216" tvg-country="TR" group-title="Türkiye",TV 8.5
+#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-country="TR" group-title="Türkiye",TV 8.5
 #EXTGRP:Türkiye
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="https://i.imgur.com/Uhg95Ze.png" tvg-country="TR" group-title="Türkiye",TV Den
 #EXTGRP:Türkiye
 http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" tvg-country="TR" group-title="Türkiye",TV8
+#EXTGRP:Türkiye
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://i.imgur.com/mQo8yWQ.png" tvg-country="TR" group-title="Türkiye",TVNET
 #EXTGRP:Türkiye
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
@@ -1310,6 +1313,12 @@ https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_ad
 #EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/FpVNrxk.png" tvg-country="AT" group-title="Avusturya",W24
 #EXTGRP:Avusturya
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus1.by" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-country="BY" group-title="Belarus",Belarus-1
+#EXTGRP:Belarus
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus2.by" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-country="BY" group-title="Belarus",Belarus-2
+#EXTGRP:Belarus
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-country="BY" group-title="Belarus",Belarus-24
 #EXTGRP:Belarus
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
