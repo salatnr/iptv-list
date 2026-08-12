@@ -614,9 +614,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="TV41.tr" tvg-logo="https://i.imgur.com/6T472LM.png" tvg-country="TR" group-title="Türkiye",TV 41
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 tvg-id="TV42.tr" tvg-logo="https://www.tv42.com.tr/logo.png" tvg-country="TR" group-title="Türkiye",TV 42
-#EXTGRP:Türkiye
-https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" tvg-logo="https://i.imgur.com/k4R5CzO.png" tvg-country="TR" group-title="Türkiye",TV 52
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
