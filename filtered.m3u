@@ -188,9 +188,6 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" group-title="Türkiye",Finans Turk TV
 #EXTGRP:Türkiye
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-id="extra-tr-86" tvg-country="TR" group-title="Türkiye",FiNEST TV
-#EXTGRP:Türkiye
-http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-country="TR" group-title="Türkiye",Flash Haber TV
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
