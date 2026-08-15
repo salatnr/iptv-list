@@ -71,6 +71,21 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" group-title="Türkiye",ATV Alanya
 #EXTGRP:Türkiye
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-country="TR" group-title="Türkiye",beIN Box Office 1
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/box1/index.m3u8
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-country="TR" group-title="Türkiye",beIN Box Office 2
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/box2/index.m3u8
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-country="TR" group-title="Türkiye",beIN Box Office 3
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/box3/index.m3u8
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-country="TR" group-title="Türkiye",beIN Movies Stars
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-country="TR" group-title="Türkiye",beIN Movies Turk
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-340" tvg-country="TR" group-title="Türkiye",BELEMTÜRK
 #EXTGRP:Türkiye
 https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
@@ -389,6 +404,12 @@ https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="extra-tr-263" tvg-country="TR" group-title="Türkiye",MUKABELE TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="TR" group-title="Türkiye",National Geographic
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="TR" group-title="Türkiye",National Geographic Wild
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-country="TR" group-title="Türkiye",Natural TV
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
@@ -587,6 +608,9 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" group-title="Türkiye",TRT Muzik
 #EXTGRP:Türkiye
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-country="TR" group-title="Türkiye",TRT Spor
+#EXTGRP:Türkiye
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR" group-title="Türkiye",TRT Turk
 #EXTGRP:Türkiye
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -641,6 +665,9 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-country="TR" group-title="Türkiye",Vav TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-country="TR" group-title="Türkiye",Viasat History
+#EXTGRP:Türkiye
+https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-82" tvg-country="TR" group-title="Türkiye",VUSLAT TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
