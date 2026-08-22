@@ -110,6 +110,9 @@ https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-country="TR" group-title="Türkiye",Bloomberg HT
 #EXTGRP:Türkiye
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-id="extra-tr-272" tvg-country="TR" group-title="Türkiye",BODRUM KENT TV
+#EXTGRP:Türkiye
+https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-logo="https://i.imgur.com/TXDV1ty.png" tvg-country="TR" group-title="Türkiye",Bric ve Satranc TV
 #EXTGRP:Türkiye
 http://139.162.182.79/live/test/index.m3u8
@@ -212,6 +215,9 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-86" tvg-country="TR" group-title="Türkiye",FiNEST TV
 #EXTGRP:Türkiye
 http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" group-title="Türkiye",Fortuna TV
+#EXTGRP:Türkiye
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GEMPixel.tr" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" tvg-country="TR" group-title="Türkiye",GEM Pixel
 #EXTGRP:Türkiye
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
