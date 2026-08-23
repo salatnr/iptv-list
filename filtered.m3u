@@ -71,24 +71,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" group-title="Türkiye",ATV Alanya
 #EXTGRP:Türkiye
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-country="TR" group-title="Türkiye",ATV Avrupa
-#EXTGRP:Türkiye
-https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-country="TR" group-title="Türkiye",beIN Box Office 1
-#EXTGRP:Türkiye
-https://nord.ayakkabiparti.lol/box1/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-country="TR" group-title="Türkiye",beIN Box Office 2
-#EXTGRP:Türkiye
-https://nord.ayakkabiparti.lol/box2/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-country="TR" group-title="Türkiye",beIN Box Office 3
-#EXTGRP:Türkiye
-https://nord.ayakkabiparti.lol/box3/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-country="TR" group-title="Türkiye",beIN Movies Stars
-#EXTGRP:Türkiye
-https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-country="TR" group-title="Türkiye",beIN Movies Turk
-#EXTGRP:Türkiye
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-340" tvg-country="TR" group-title="Türkiye",BELEMTÜRK
 #EXTGRP:Türkiye
 https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
@@ -659,9 +641,6 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-country="TR" group-title="Türkiye",Vav TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-country="TR" group-title="Türkiye",Viasat History
-#EXTGRP:Türkiye
-https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-82" tvg-country="TR" group-title="Türkiye",VUSLAT TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
