@@ -164,6 +164,9 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-280" tvg-country="TR" group-title="Türkiye",ER TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-279" tvg-country="TR" group-title="Türkiye",ERCİYES TV
+#EXTGRP:Türkiye
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
 #EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-logo="https://i.imgur.com/HF7N4Li.png" tvg-country="TR" group-title="Türkiye",Erzurum Web TV
 #EXTGRP:Türkiye
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
