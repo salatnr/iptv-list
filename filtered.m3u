@@ -512,9 +512,6 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-country="TR" group-title="Türkiye",TGRT Haber
 #EXTGRP:Türkiye
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-id="extra-tr-227" tvg-country="TR" group-title="Türkiye",TH TURK HABER TV
-#EXTGRP:Türkiye
-https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-logo="https://i.imgur.com/Mbi0jbz.png" tvg-country="TR" group-title="Türkiye",Tivi 6
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -575,9 +572,6 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" tvg-country="TR" group-title="Türkiye",TRT1
 #EXTGRP:Türkiye
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-country="TR" group-title="Türkiye",TurkHaber TV
-#EXTGRP:Türkiye
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.tr" tvg-logo="https://i.imgur.com/8CtrYVb.png" tvg-country="TR" group-title="Türkiye",TV 1
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
