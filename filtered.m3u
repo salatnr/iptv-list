@@ -188,6 +188,9 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" group-title="Türkiye",Finans Turk TV
 #EXTGRP:Türkiye
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-country="TR" group-title="Türkiye",Flash Haber TV
+#EXTGRP:Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-country="TR" group-title="Türkiye",Fortuna TV
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
@@ -413,6 +416,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-id="extra-tr-64" tvg-country="TR" group-title="Türkiye",OLAY TURK
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-85" tvg-country="TR" group-title="Türkiye",ORDU BEL TV
+#EXTGRP:Türkiye
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-logo="https://i.imgur.com/QpPteBO.png" tvg-country="TR" group-title="Türkiye",Power Dance
 #EXTGRP:Türkiye
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -443,12 +449,6 @@ https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="extra-tr-83" tvg-country="TR" group-title="Türkiye",RIZE TURK HD
 #EXTGRP:Türkiye
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="SSport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-country="TR" group-title="Türkiye",S Sport
-#EXTGRP:Türkiye
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-country="TR" group-title="Türkiye",S Sport 2
-#EXTGRP:Türkiye
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-100" tvg-country="TR" group-title="Türkiye",SAGLIK CHANEL
 #EXTGRP:Türkiye
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
@@ -551,9 +551,6 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" group-title="Türkiye",TRT Muzik
 #EXTGRP:Türkiye
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-country="TR" group-title="Türkiye",TRT Spor
-#EXTGRP:Türkiye
-https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR" group-title="Türkiye",TRT Turk
 #EXTGRP:Türkiye
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
