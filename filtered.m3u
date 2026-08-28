@@ -35,6 +35,9 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-logo="https://i.imgur.com/QEHKGnG.png" tvg-country="TR" group-title="Türkiye",Al-Zahra TV Turkic
 #EXTGRP:Türkiye
 https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-102" tvg-country="TR" group-title="Türkiye",ALANYA ATV
+#EXTGRP:Türkiye
+https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-country="TR" group-title="Türkiye",Alanya Posta TV
 #EXTGRP:Türkiye
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
@@ -371,6 +374,12 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" tvg-country="TR" group-title="Türkiye",Minika Go
 #EXTGRP:Türkiye
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="MTurkTV.tr" tvg-logo="https://i.imgur.com/xj1gvrq.png" tvg-country="TR" group-title="Türkiye",MTurk TV
+#EXTGRP:Türkiye
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-63" tvg-country="TR" group-title="Türkiye",MUGLA TÜRK TV
+#EXTGRP:Türkiye
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="extra-tr-263" tvg-country="TR" group-title="Türkiye",MUKABELE TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
