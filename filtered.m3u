@@ -20,6 +20,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="extra-tr-94" tvg-country="TR" group-title="Türkiye",A VİVA TV
 #EXTGRP:Türkiye
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-country="TR" group-title="Türkiye",A2
+#EXTGRP:Türkiye
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" tvg-country="TR" group-title="Türkiye",A2TV
 #EXTGRP:Türkiye
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
