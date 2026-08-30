@@ -35,9 +35,6 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-logo="https://i.imgur.com/QEHKGnG.png" tvg-country="TR" group-title="Türkiye",Al-Zahra TV Turkic
 #EXTGRP:Türkiye
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="extra-tr-102" tvg-country="TR" group-title="Türkiye",ALANYA ATV
-#EXTGRP:Türkiye
-https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-country="TR" group-title="Türkiye",Alanya Posta TV
 #EXTGRP:Türkiye
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
