@@ -53,6 +53,9 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 #EXTINF:-1 tvg-id="extra-tr-88" tvg-country="TR" group-title="Türkiye",ARABESK TV
 #EXTGRP:Türkiye
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-logo="https://i.imgur.com/JsDCyWG.png" tvg-country="TR" group-title="Türkiye",Aras TV
+#EXTGRP:Türkiye
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-95" tvg-country="TR" group-title="Türkiye",ARMA TV
 #EXTGRP:Türkiye
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
@@ -464,6 +467,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" tvg-country="TR" group-title="Türkiye",Sercem TV
 #EXTGRP:Türkiye
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-country="TR" group-title="Türkiye",Show Turk
+#EXTGRP:Türkiye
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@showtv/live",SHOW TV HD
 #EXTGRP:Türkiye
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
