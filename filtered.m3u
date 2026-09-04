@@ -62,6 +62,9 @@ https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-country="TR" group-title="Türkiye",AS TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@atv/live",ATV
+#EXTGRP:Türkiye
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-country="TR" group-title="Türkiye",ATV Alanya
 #EXTGRP:Türkiye
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
@@ -110,6 +113,9 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-country="TR" group-title="Türkiye",CNBC-e
 #EXTGRP:Türkiye
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@cnnturk/live",CNN TURK
+#EXTGRP:Türkiye
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-87" tvg-country="TR" group-title="Türkiye",DAMAR TV
 #EXTGRP:Türkiye
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
@@ -272,6 +278,9 @@ https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Kanal58.tr" tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-country="TR" group-title="Türkiye",Kanal 58
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@kanal7/live",Kanal 7
+#EXTGRP:Türkiye
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" tvg-country="TR" group-title="Türkiye",Kanal 7 Avrupa
 #EXTGRP:Türkiye
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
@@ -455,9 +464,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" tvg-country="TR" group-title="Türkiye",Sercem TV
 #EXTGRP:Türkiye
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-country="TR" group-title="Türkiye",Show Turk
-#EXTGRP:Türkiye
-https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 #EXTINF:-1 tvg-id="SHOW TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400/content/E/aM/11889/Thumbnail.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@showtv/live",SHOW TV HD
 #EXTGRP:Türkiye
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
@@ -518,12 +524,18 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-93" tvg-country="TR" group-title="Türkiye",TOP POP TV
 #EXTGRP:Türkiye
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+#EXTINF:-1 tvg-id="extra-tr-180" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trt2/live",TRT 2
+#EXTGRP:Türkiye
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" tvg-country="TR" group-title="Türkiye",TRT Arabi
 #EXTGRP:Türkiye
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" tvg-country="TR" group-title="Türkiye",TRT Avaz
 #EXTGRP:Türkiye
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trtbelgesel/live",TRT Belgesel
+#EXTGRP:Türkiye
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trtcocuk/live",TRT COCUK
 #EXTGRP:Türkiye
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -545,6 +557,9 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trtmuzik/live",TRT Muzik
 #EXTGRP:Türkiye
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trtspor/live",TRT Spor
+#EXTGRP:Türkiye
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-country="TR" group-title="Türkiye",TRT Turk
 #EXTGRP:Türkiye
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -560,6 +575,9 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.tr" tvg-logo="https://i.imgur.com/8CtrYVb.png" tvg-country="TR" group-title="Türkiye",TV 1
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@tv100/live",TV 100
+#EXTGRP:Türkiye
+https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
 #EXTINF:-1 tvg-id="TV264.tr" tvg-logo="https://i.imgur.com/tudXdOZ.png" tvg-country="TR" group-title="Türkiye",TV 264
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
