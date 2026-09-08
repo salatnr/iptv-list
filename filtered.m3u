@@ -401,6 +401,9 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@NOW/live",NOW TV
 #EXTGRP:Türkiye
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="extra-tr-238" tvg-country="TR" group-title="Türkiye",NR 1 DAMAR
+#EXTGRP:Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
 #EXTINF:-1 tvg-id="extra-tr-236" tvg-country="TR" group-title="Türkiye",NR 1 TURK
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
@@ -542,9 +545,6 @@ https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
 #EXTINF:-1 tvg-id="extra-tr-180" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trt2/live",TRT 2
 #EXTGRP:Türkiye
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuf0VbbCYUyd_hUcaxw_iOtp84-aGKdfkvog&s" tvg-country="TR" group-title="Türkiye",TRT 4K
-#EXTGRP:Türkiye
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" tvg-country="TR" group-title="Türkiye",TRT Arabi
 #EXTGRP:Türkiye
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
