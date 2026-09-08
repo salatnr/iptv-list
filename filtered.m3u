@@ -236,9 +236,6 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@halktv/live",Halk TV
 #EXTGRP:Türkiye
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-country="TR" group-title="Türkiye",HTSpor TV
-#EXTGRP:Türkiye
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HunatTV.tr" tvg-logo="https://i.imgur.com/NrxHGnb.png" tvg-country="TR" group-title="Türkiye",Hunat TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
@@ -284,9 +281,6 @@ https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-46" tvg-country="TR" group-title="Türkiye",KANAL 53
 #EXTGRP:Türkiye
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Kanal58.tr" tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-country="TR" group-title="Türkiye",Kanal 58
-#EXTGRP:Türkiye
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@kanal7/live",Kanal 7
 #EXTGRP:Türkiye
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
