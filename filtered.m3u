@@ -20,9 +20,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="extra-tr-94" tvg-country="TR" group-title="Türkiye",A VİVA TV
 #EXTGRP:Türkiye
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
-#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" tvg-country="TR" group-title="Türkiye",A2
-#EXTGRP:Türkiye
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" tvg-country="TR" group-title="Türkiye",A2TV
 #EXTGRP:Türkiye
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
@@ -140,6 +137,9 @@ https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
 #EXTINF:-1 tvg-id="extra-tr-253" tvg-country="TR" group-title="Türkiye",DİZİ TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" tvg-country="TR" group-title="Türkiye",DMAX
+#EXTGRP:Türkiye
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" tvg-country="TR" group-title="Türkiye",Dost TV
 #EXTGRP:Türkiye
 https://dost.stream.emsal.im/tv/live.m3u8
@@ -275,6 +275,9 @@ https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal32.tr" tvg-country="TR" group-title="Türkiye",Kanal 32
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal33.tr" tvg-logo="https://i.imgur.com/5WYaoFZ.png" tvg-country="TR" group-title="Türkiye",Kanal 33
+#EXTGRP:Türkiye
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-46" tvg-country="TR" group-title="Türkiye",KANAL 53
 #EXTGRP:Türkiye
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
@@ -524,6 +527,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-country="TR" group-title="Türkiye",TJK TV
 #EXTGRP:Türkiye
 https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" tvg-country="TR" group-title="Türkiye",TLC
+#EXTGRP:Türkiye
+http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-323" tvg-country="TR" group-title="Türkiye",TOKAT TV
 #EXTGRP:Türkiye
 https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
