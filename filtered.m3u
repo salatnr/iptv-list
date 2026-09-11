@@ -341,6 +341,9 @@ https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-country="TR" group-title="Türkiye",Lalegul TV
 #EXTGRP:Türkiye
 https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-country="TR" group-title="Türkiye",Life TV
+#EXTGRP:Türkiye
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr" tvg-logo="https://i.imgur.com/6GNp7f8.png" tvg-country="TR" group-title="Türkiye",Line TV
 #EXTGRP:Türkiye
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
@@ -407,6 +410,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 tvg-id="extra-tr-239" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@number1/live",NR 1 TV
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-id="extra-tr-203" tvg-country="TR" group-title="Türkiye",NR1
+#EXTGRP:Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-374" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" tvg-country="TR" group-title="Türkiye",NR1 FASHION ONE
 #EXTGRP:Türkiye
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
