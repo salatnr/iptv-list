@@ -401,6 +401,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 tvg-id="extra-tr-239" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@number1/live",NR 1 TV
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-id="extra-tr-203" tvg-country="TR" group-title="Türkiye",NR1
+#EXTGRP:Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-374" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" tvg-country="TR" group-title="Türkiye",NR1 FASHION ONE
 #EXTGRP:Türkiye
 http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
