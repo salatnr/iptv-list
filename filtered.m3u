@@ -314,6 +314,9 @@ https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 #EXTINF:-1 tvg-id="extra-tr-53" tvg-country="TR" group-title="Türkiye",KANAL PLUS
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-54" tvg-country="TR" group-title="Türkiye",KANAL URFA
+#EXTGRP:Türkiye
+https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-logo="https://i.imgur.com/7RNjTno.png" tvg-country="TR" group-title="Türkiye",Kanal V
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
