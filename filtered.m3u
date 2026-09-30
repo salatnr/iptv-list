@@ -212,9 +212,6 @@ https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-286" tvg-country="TR" group-title="Türkiye",GURBET 24 TV
 #EXTGRP:Türkiye
 http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
-#EXTINF:-1 tvg-id="GZT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" tvg-country="TR" group-title="Türkiye",GZT
-#EXTGRP:Türkiye
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-228" tvg-country="TR" group-title="Türkiye",HABER 61
 #EXTGRP:Türkiye
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
@@ -614,9 +611,6 @@ http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@TV8/live",TV8
 #EXTGRP:Türkiye
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://i.imgur.com/mQo8yWQ.png" tvg-country="TR" group-title="Türkiye",TVNET
-#EXTGRP:Türkiye
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="extra-tr-267" tvg-country="TR" group-title="Türkiye",TÜRKMENELİ TV
 #EXTGRP:Türkiye
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
