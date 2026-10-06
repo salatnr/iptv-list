@@ -32,6 +32,9 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-logo="https://i.imgur.com/QEHKGnG.png" tvg-country="TR" group-title="Türkiye",Al-Zahra TV Turkic
 #EXTGRP:Türkiye
 https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-102" tvg-country="TR" group-title="Türkiye",ALANYA ATV
+#EXTGRP:Türkiye
+https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-country="TR" group-title="Türkiye",Alanya Posta TV
 #EXTGRP:Türkiye
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
@@ -245,6 +248,9 @@ https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" tvg-country="TR" group-title="Türkiye",Kanal 7 Avrupa
 #EXTGRP:Türkiye
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="extra-tr-49" tvg-country="TR" group-title="Türkiye",KANAL ADA
+#EXTGRP:Türkiye
+http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
 #EXTINF:-1 tvg-id="extra-tr-50" tvg-country="TR" group-title="Türkiye",KANAL AVRUPA
 #EXTGRP:Türkiye
 https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
@@ -260,6 +266,9 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 #EXTINF:-1 tvg-id="KanalHayat.tr" tvg-logo="https://i.imgur.com/eikZj19.png" tvg-country="TR" group-title="Türkiye",Kanal Hayat
 #EXTGRP:Türkiye
 https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 tvg-id="extra-tr-53" tvg-country="TR" group-title="Türkiye",KANAL PLUS
+#EXTGRP:Türkiye
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-logo="https://i.imgur.com/7RNjTno.png" tvg-country="TR" group-title="Türkiye",Kanal V
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
