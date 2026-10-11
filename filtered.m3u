@@ -350,9 +350,6 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="https://i.imgur.com/slwbux7.png" tvg-country="TR" group-title="Türkiye",Number 1 Ask
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="https://i.imgur.com/rYtbAGZ.png" tvg-country="TR" group-title="Türkiye",Number 1 Damar
-#EXTGRP:Türkiye
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="https://i.imgur.com/ZM4PSyq.png" tvg-country="TR" group-title="Türkiye",Number 1 Dance
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
@@ -518,9 +515,6 @@ https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" tvg-country="TR" group-title="Türkiye",TV 8.5
 #EXTGRP:Türkiye
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="https://i.imgur.com/Uhg95Ze.png" tvg-country="TR" group-title="Türkiye",TV Den
-#EXTGRP:Türkiye
-http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@tv100/live",TV100
 #EXTGRP:Türkiye
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
