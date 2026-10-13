@@ -125,9 +125,6 @@ https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
 #EXTINF:-1 tvg-id="extra-tr-253" tvg-country="TR" group-title="Türkiye",DİZİ TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" tvg-country="TR" group-title="Türkiye",DMAX
-#EXTGRP:Türkiye
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" tvg-country="TR" group-title="Türkiye",Dost TV
 #EXTGRP:Türkiye
 https://dost.stream.emsal.im/tv/live.m3u8
@@ -464,9 +461,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-country="TR" group-title="Türkiye",TJK TV
 #EXTGRP:Türkiye
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" tvg-country="TR" group-title="Türkiye",TLC
-#EXTGRP:Türkiye
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-logo="https://i.imgur.com/f0Soeob.png" tvg-country="TR" group-title="Türkiye",Ton TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
@@ -578,6 +572,12 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/play
 #EXTINF:-1 tvg-id="ExpressenTV.se" tvg-logo="https://i.imgur.com/ai0BIci.png" tvg-country="SE" group-title="İsveç",Expressen TV
 #EXTGRP:İsveç
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-id="GustavLinsepaudebane.se" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png" tvg-country="SE" group-title="İsveç",Gustav & Linse pa udebane
+#EXTGRP:İsveç
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
+#EXTINF:-1 tvg-id="Hogspanning.se" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Hogspanning
+#EXTGRP:İsveç
+https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
 #EXTINF:-1 tvg-id="iCarly.se" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",iCarly
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
@@ -635,6 +635,9 @@ https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-logo="https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",SvampeBob Firkant
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+#EXTINF:-1 tvg-id="UngaMammor.se" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Unga Mammor
+#EXTGRP:İsveç
+https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 #EXTINF:-1 tvg-id="VSportGolf.se" tvg-logo="https://i.imgur.com/wCw8Pmz.png" tvg-country="SE" group-title="İsveç",V Sport Golf
 #EXTGRP:İsveç
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
