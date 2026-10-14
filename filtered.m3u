@@ -320,6 +320,9 @@ http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-logo="https://i.imgur.com/q7iVchl.png" tvg-country="TR" group-title="Türkiye",Mekameleen TV
 #EXTGRP:Türkiye
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" tvg-country="TR" group-title="Türkiye",Meltem TV
+#EXTGRP:Türkiye
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MercanTV.tr" tvg-logo="https://i.imgur.com/3CWV8bS.png" tvg-country="TR" group-title="Türkiye",Mercan TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
@@ -341,6 +344,9 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="extra-tr-238" tvg-country="TR" group-title="Türkiye",NR 1 DAMAR
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
+#EXTINF:-1 tvg-id="extra-tr-236" tvg-country="TR" group-title="Türkiye",NR 1 TURK
+#EXTGRP:Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="extra-tr-239" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@number1/live",NR 1 TV
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
@@ -461,6 +467,9 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" tvg-country="TR" group-title="Türkiye",TLC
 #EXTGRP:Türkiye
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
+#EXTINF:-1 tvg-id="extra-tr-323" tvg-country="TR" group-title="Türkiye",TOKAT TV
+#EXTGRP:Türkiye
+https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-logo="https://i.imgur.com/f0Soeob.png" tvg-country="TR" group-title="Türkiye",Ton TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
@@ -491,9 +500,6 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" tvg-country="TR" group-title="Türkiye",TRT EBA
 #EXTGRP:Türkiye
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTGenc.tr" tvg-logo="https://i.imgur.com/fCHQYWS.png" tvg-country="TR" group-title="Türkiye",TRT Genc
-#EXTGRP:Türkiye
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trthaber/live",TRT Haber
 #EXTGRP:Türkiye
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -572,6 +578,12 @@ https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-
 #EXTINF:-1 tvg-id="BestofMTV.se" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" tvg-country="SE" group-title="İsveç",Best of MTV
 #EXTGRP:İsveç
 https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
+#EXTINF:-1 tvg-id="BestofParadiseHotelFinalveckan.se" tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Best of Paradise Hotel: Finalveckan
+#EXTGRP:İsveç
+https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
+#EXTINF:-1 tvg-id="Boligjakten.se" tvg-logo="https://images.pluto.tv/channels/61c1dc21b9587d0007e3fc15/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Boligjakten
+#EXTGRP:İsveç
+https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
 #EXTINF:-1 tvg-id="CampKulinaris.se" tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Camp Kulinaris
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
@@ -590,12 +602,9 @@ https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/play
 #EXTINF:-1 tvg-id="FrusnaVagar.se" tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Frusna Vagar
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
-#EXTINF:-1 tvg-id="GustavLinsepaudebane.se" tvg-logo="https://images.pluto.tv/channels/69c290eeed1b1f1acb446dd8/colorLogoPNG_1778675778733.png" tvg-country="SE" group-title="İsveç",Gustav & Linse pa udebane
+#EXTINF:-1 tvg-id="HouseofLies.se" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" tvg-country="SE" group-title="İsveç",House of Lies
 #EXTGRP:İsveç
-https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
-#EXTINF:-1 tvg-id="Hogspanning.se" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Hogspanning
-#EXTGRP:İsveç
-https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
 #EXTINF:-1 tvg-id="JerseyShoreFamilyVacation.se" tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Jersey Shore Family Vacation
 #EXTGRP:İsveç
 https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
@@ -608,6 +617,9 @@ https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Luksusfellen.se" tvg-logo="https://images.pluto.tv/channels/61c1e060197fe600073c1ffb/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Luksusfellen
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
+#EXTINF:-1 tvg-id="LyxfallanDanmark.se" tvg-logo="https://images.pluto.tv/channels/61c19165decece0007e9b2f3/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Lyxfallan Danmark
+#EXTGRP:İsveç
+https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
 #EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se" tvg-logo="https://images.pluto.tv/channels/61c19edbf535220007075c4e/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",MasterChef Danmarks storste madtalenter
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
@@ -635,6 +647,12 @@ https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantik.se" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" tvg-country="SE" group-title="İsveç",Pluto TV Romantik
 #EXTGRP:İsveç
 https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomantikk.se" tvg-logo="https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png" tvg-country="SE" group-title="İsveç",Pluto TV Romantikk
+#EXTGRP:İsveç
+https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTecknadeklassiker.se" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" tvg-country="SE" group-title="İsveç",Pluto TV Tecknade klassiker
+#EXTGRP:İsveç
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTecknat.se" tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png" tvg-country="SE" group-title="İsveç",Pluto TV Tecknat
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
@@ -647,6 +665,9 @@ https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
 #EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",SvampBob Fyrkant
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-id="SvenskaTruckers.se" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Svenska Truckers
+#EXTGRP:İsveç
+https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Totally Turtles
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
