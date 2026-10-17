@@ -125,9 +125,6 @@ https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
 #EXTINF:-1 tvg-id="extra-tr-253" tvg-country="TR" group-title="Türkiye",DİZİ TV
 #EXTGRP:Türkiye
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" tvg-country="TR" group-title="Türkiye",DMAX
-#EXTGRP:Türkiye
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/2290/index.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" tvg-country="TR" group-title="Türkiye",Dost TV
 #EXTGRP:Türkiye
 https://dost.stream.emsal.im/tv/live.m3u8
@@ -461,9 +458,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-country="TR" group-title="Türkiye",TJK TV
 #EXTGRP:Türkiye
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" tvg-country="TR" group-title="Türkiye",TLC
-#EXTGRP:Türkiye
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6915/index.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-logo="https://i.imgur.com/f0Soeob.png" tvg-country="TR" group-title="Türkiye",Ton TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
@@ -518,9 +512,6 @@ https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trt1/live",TRT1
 #EXTGRP:Türkiye
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TurksatTanitim.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/T%C3%BCrksat_logo.svg/960px-T%C3%BCrksat_logo.svg.png" tvg-country="TR" group-title="Türkiye",Turksat Tanitim
-#EXTGRP:Türkiye
-http://176.65.153.26:6004/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TV264.tr" tvg-logo="https://i.imgur.com/tudXdOZ.png" tvg-country="TR" group-title="Türkiye",TV 264
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
