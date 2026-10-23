@@ -1121,21 +1121,9 @@ https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 #EXTINF:-1 tvg-id="UngaMammor.se" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Unga Mammor
 #EXTGRP:İsveç
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
-#EXTINF:-1 tvg-id="VSportGolf.se" tvg-logo="https://i.imgur.com/wCw8Pmz.png" tvg-country="SE" group-title="İsveç",V Sport Golf
-#EXTGRP:İsveç
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Viafree Movies
 #EXTGRP:İsveç
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.se" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-country="SE" group-title="İsveç",Viasat Explore
-#EXTGRP:İsveç
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.se" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-country="SE" group-title="İsveç",Viasat History
-#EXTGRP:İsveç
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.se" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-country="SE" group-title="İsveç",Viasat Nature
-#EXTGRP:İsveç
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
 #EXTINF:-1 tvg-id="Wildfire.se" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" tvg-country="SE" group-title="İsveç",Wildfire
 #EXTGRP:İsveç
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
