@@ -341,6 +341,9 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="extra-tr-238" tvg-country="TR" group-title="Türkiye",NR 1 DAMAR
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
+#EXTINF:-1 tvg-id="extra-tr-236" tvg-country="TR" group-title="Türkiye",NR 1 TURK
+#EXTGRP:Türkiye
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="extra-tr-239" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@number1/live",NR 1 TV
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
@@ -494,6 +497,9 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" tvg-country="TR" group-title="Türkiye",TRT EBA
 #EXTGRP:Türkiye
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTGenc.tr" tvg-logo="https://i.imgur.com/fCHQYWS.png" tvg-country="TR" group-title="Türkiye",TRT Genc
+#EXTGRP:Türkiye
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trthaber/live",TRT Haber
 #EXTGRP:Türkiye
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
