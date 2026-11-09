@@ -98,9 +98,9 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-country="TR" group-title="Türkiye",CNBC-e
 #EXTGRP:Türkiye
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@cnnturk/live",CNN TURK
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/960px-CNN_T%C3%BCrk_logo.svg.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@cnnturk/live",CNN Turk
 #EXTGRP:Türkiye
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/6926/index.m3u8
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="extra-tr-87" tvg-country="TR" group-title="Türkiye",DAMAR TV
 #EXTGRP:Türkiye
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
@@ -161,9 +161,6 @@ https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
 #EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" tvg-country="TR" group-title="Türkiye",Film Screen HD
 #EXTGRP:Türkiye
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-country="TR" group-title="Türkiye",Finans Turk TV
-#EXTGRP:Türkiye
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-country="TR" group-title="Türkiye",Flash Haber TV
 #EXTGRP:Türkiye
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
@@ -308,6 +305,9 @@ http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-logo="https://i.imgur.com/q7iVchl.png" tvg-country="TR" group-title="Türkiye",Mekameleen TV
 #EXTGRP:Türkiye
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" tvg-country="TR" group-title="Türkiye",Meltem TV
+#EXTGRP:Türkiye
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MercanTV.tr" tvg-logo="https://i.imgur.com/3CWV8bS.png" tvg-country="TR" group-title="Türkiye",Mercan TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
