@@ -34,7 +34,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" tvg-country="TR" group-title="Türkiye",beIN Sports 1 Turk
 #EXTGRP:Türkiye
-http://57.129.0.61:1990/stream/117/index.m3u8
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" tvg-country="TR" group-title="Türkiye",BENGU TURK
 #EXTGRP:Türkiye
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
@@ -209,6 +209,9 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LangLab.tr" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/langlab.png" tvg-country="TR" group-title="Türkiye",LangLab TV
 #EXTGRP:Türkiye
 https://dash3.antik.sk/live/langlabs/index.m3u8
+#EXTINF:-1 tvg-id="LiderHaber.tr" tvg-logo="https://i.ibb.co/0j6pWsPt/Liderhaber.png" tvg-country="TR" group-title="Türkiye",Lider Haber
+#EXTGRP:Türkiye
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-country="TR" group-title="Türkiye",Life TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
@@ -317,9 +320,9 @@ https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" tvg-country="TR" group-title="Türkiye",teve2
 #EXTGRP:Türkiye
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@tgrthabertv/live",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@tgrthabertv/live",TGRT HABER
 #EXTGRP:Türkiye
-https://canli.tgrthaber.com/tgrt.m3u8
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 #EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-logo="https://i.imgur.com/u02FSgI.png" tvg-country="TR" group-title="Türkiye",Thaqalayn TV (480p)
 #EXTGRP:Türkiye
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
@@ -332,9 +335,15 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-logo="https://i.imgur.com/f0Soeob.png" tvg-country="TR" group-title="Türkiye",Ton TV
 #EXTGRP:Türkiye
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trt1/live",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trt1/live",TRT 1
 #EXTGRP:Türkiye
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trt2/live",TRT 2 (720p)
+#EXTGRP:Türkiye
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT3.tr@SD" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-country="TR" group-title="Türkiye",TRT 3 (1080p)
+#EXTGRP:Türkiye
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" tvg-country="TR" group-title="Türkiye" backup-url="https://www.youtube.com/@trtcocuk/live",TRT COCUK
 #EXTGRP:Türkiye
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
